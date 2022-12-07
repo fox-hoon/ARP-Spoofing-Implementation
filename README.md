@@ -1,3 +1,11 @@
+# 기술 스택
+### ✔Programming Language
+<img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> 
+
+### ✔Tool
+<img src="https://img.shields.io/badge/Eclipse IDE-2C2255?style=for-the-badge&logo=Eclipse IDE&logoColor=white">
+
+***
 # ARP-Spoofing-Implementation
 + **Implement ARP Spoofing tools using JavaFX**
   + 윈도우 환경에서 자바FX를 사용합니다. 자바FX는 이클립스 프로그램에서 추가로 설치하여 사용해야 하고 환경변수를 설정해줘야 합니다. 네트워크에 관련된 부분을 구현하기 위해 jNetPcap라이브러리가 필요하고, jNetPcap라이브러리를 활용하기 위해선 WinPcap을 추가로 설치해줘야 합니다. 패킷에 관련한 정보를 얻기 위해 와이어샤크 프로그램을 사용했습니다. GUI 환경을 구현하는 자바FX를 원활히 사용하기 위해서 인텔 i5프로세서, 램8GB이상의 사양이 필요합니다. ARP 스푸핑 툴을 테스트하기 위해서 노트북 2대와 공유기 역할을 해줄 휴대폰 1대가 필요합니다.
